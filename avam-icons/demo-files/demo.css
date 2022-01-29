@@ -146,6 +146,9 @@ p {
 .fs0 {
   font-size: 16px;
 }
+.fs0 input {
+    cursor: pointer;
+}
 .fs1 {
   font-size: 32px;
 }
