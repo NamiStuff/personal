@@ -98,7 +98,8 @@ p {
   margin-right: 1em;
 }
 .mls {
-  margin-left: .25em;
+    margin-left: 0.25em;
+    font-size: 25px;
 }
 .ptl {
   padding-top: 1.5em;
@@ -143,13 +144,22 @@ p {
   padding-top: 24px;
   line-height: 1.5;
 }
+.pbs {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+.fs1 {
+  font-size: 25px;
+}
+.avam {
+    font-size: 35px;
+}
+
 .fs0 {
   font-size: 16px;
 }
 .fs0 input {
     cursor: pointer;
 }
-.fs1 {
-  font-size: 32px;
-}
-
