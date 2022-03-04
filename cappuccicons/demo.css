@@ -6,32 +6,27 @@ body {
   line-height: 1.5;
   color: #555;
   background: #fff;
+  padding: 20px;
 }
 h1 {
   font-size: 1.5em;
   font-weight: normal;
+  margin-left: 1em;
+  margin-right: 1em;
 }
 small {
   font-size: .66666667em;
 }
-.bgc1 {
-  background: #f1f1f1;
-}
 .fgc1 {
   color: #999;
-}
-.mvm {
-  margin-top: .75em;
-  margin-bottom: .75em;
-}
-.mhmm {
-  margin-left: 1em;
-  margin-right: 1em;
 }
 .icons-grid {
   display: flex;
   flex-wrap: wrap;
   padding: 20px;
+  width: 100%;
+  max-width: 1500px;
+  margin: auto;
 }
 .icon-caja {
   min-width: 120px;
