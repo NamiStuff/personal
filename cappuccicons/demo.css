@@ -27,7 +27,7 @@ small {
   margin: auto;
 }
 .icon-caja {
-  min-width: 130px;
+  width: 130px;
   margin: 10px;
   text-align: center;
 }
