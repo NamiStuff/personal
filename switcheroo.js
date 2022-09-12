@@ -318,7 +318,7 @@ function extend(obj1, obj2) {
         logo.classList.add(c + '__squircle', c + '__logo');
         logo.href = '/';
         logo.innerHTML = this.options.logo;
-        logo.appendChild(this.createTooltip('Accueil'));
+        logo.appendChild(this.createTooltip('Índice'));
         wrapper.appendChild(logo);
         this.createDividerLine(wrapper);
     };
