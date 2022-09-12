@@ -3,8 +3,8 @@ const DEFAULT_LANG = {
         add: "Añadir una cuenta"
     },
     msg: {
-        error: "Une erreur est surviendu lors du Switcheroo.",
-        confirm: "Confirmer le Switcheroo de personnage ?"
+        error: "Hay un error con Switcheroo.",
+        confirm: "¿Estás seguro de querer añadir esta cuenta?"
     },
     modal: {
         password_placeholder: "",
@@ -24,8 +24,8 @@ const DEFAULT_OPT = {
     blockClass: 'switcheroo',
     deleteIcon: `×`,
     addIcon: `+`,
-    errorMsg: 'Une erreur est surviendue lors du Switcheroo.',
-    confirmMsg: 'Confirmer le Switcheroo de personnage ?',
+    errorMsg: 'Hay un error con Switcheroo.',
+    confirmMsg: '¿Estás seguro de querer añadir esta cuenta?',
     modal: {}
 };
 
