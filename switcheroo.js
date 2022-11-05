@@ -4,7 +4,7 @@ const DEFAULT_LANG = {
     },
     msg: {
         error: "Hay un error con Switcheroo.",
-        confirm: "¿Estás seguro de querer añadir esta cuenta?"
+        confirm: "¿Estás seguro de querer conectarte a esta cuenta?"
     },
     modal: {
         password_placeholder: "",
@@ -25,7 +25,7 @@ const DEFAULT_OPT = {
     deleteIcon: `×`,
     addIcon: `+`,
     errorMsg: 'Hay un error con Switcheroo.',
-    confirmMsg: '¿Estás seguro de querer añadir esta cuenta?',
+    confirmMsg: '¿Estás seguro de querer conectarte a esta cuenta?',
     modal: {}
 };
 
