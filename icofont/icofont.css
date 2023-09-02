@@ -8,7 +8,8 @@
 
 @font-face
 {
-font-family: "IcoFont";
+ 
+  font-family: "IcoFont";
 font-weight: normal;
 font-style: "Regular";
 src: url("./fonts/icofont.woff2") format("woff2"),
@@ -3567,11 +3568,6 @@ url("./fonts/icofont.woff") format("woff");
   content: "\eaa9";
 }
 
-.icofont-scroll-down:before
-{
-  content: "\eaaa";
-}
-
 .icofont-scroll-left:before
 {
   content: "\eaab";
@@ -5192,6 +5188,146 @@ url("./fonts/icofont.woff") format("woff");
   content: "\ec05";
 }
 
+.icofont-win-trophy:before
+{
+  content: "\edde";
+}
+
+.icofont-windy:before
+{
+  content: "\ee9f";
+}
+
+.icofont-windy-thunder:before
+{
+  content: "\ee9e";
+}
+
+.icofont-windy-thunder-raining:before
+{
+  content: "\ee9d";
+}
+
+.icofont-windy-sunny:before
+{
+  content: "\ee9c";
+}
+
+.icofont-windy-raining:before
+{
+  content: "\ee9b";
+}
+
+.icofont-windy-night:before
+{
+  content: "\ee9a";
+}
+
+.icofont-wind-scale-4:before
+{
+  content: "\ee91";
+}
+
+.icofont-wind-scale-5:before
+{
+  content: "\ee92";
+}
+
+.icofont-snowy-windy-sunny:before
+{
+  content: "\ee7b";
+}
+
+.icofont-snowy-windy:before
+{
+  content: "\ee7c";
+}
+
+.icofont-wind-scale-6:before
+{
+  content: "\ee93";
+}
+
+.icofont-wind-scale-0:before
+{
+  content: "\ee8a";
+}
+
+.icofont-wind-scale-1:before
+{
+  content: "\ee8b";
+}
+
+.icofont-wind-scale-10:before
+{
+  content: "\ee8c";
+}
+
+.icofont-wind-scale-8:before
+{
+  content: "\ee95";
+}
+
+.icofont-wind-scale-7:before
+{
+  content: "\ee94";
+}
+
+.icofont-wind-scale-9:before
+{
+  content: "\ee96";
+}
+
+.icofont-wind-scale-11:before
+{
+  content: "\ee8d";
+}
+
+.icofont-wind-scale-12:before
+{
+  content: "\ee8e";
+}
+
+.icofont-wind-waves:before
+{
+  content: "\ee97";
+}
+
+.icofont-wind:before
+{
+  content: "\ee98";
+}
+
+.icofont-wind-scale-2:before
+{
+  content: "\ee8f";
+}
+
+.icofont-wind-scale-3:before
+{
+  content: "\ee90";
+}
+
+.icofont-windy-hail:before
+{
+  content: "\ee99";
+}
+
+.icofont-rewind:before
+{
+  content: "\ecad";
+}
+
+.icofont-snowy-windy-night:before
+{
+  content: "\ee7a";
+}
+
+.icofont-cheer-leader:before
+{
+  content: "\ed99";
+}
+
 .icofont-aids:before
 {
   content: "\ec06";
@@ -6027,11 +6163,6 @@ url("./fonts/icofont.woff") format("woff");
   content: "\ecac";
 }
 
-.icofont-rewind:before
-{
-  content: "\ecad";
-}
-
 .icofont-song-notes:before
 {
   content: "\ecae";
@@ -6347,9 +6478,24 @@ url("./fonts/icofont.woff") format("woff");
   content: "\ed1b";
 }
 
-.icofont-live-messenger:before
+.icofont-google-talk:before
 {
-  content: "\ed4f";
+  content: "\ed44";
+}
+
+.icofont-google-map:before
+{
+  content: "\ed42";
+}
+
+.icofont-google-hangouts:before
+{
+  content: "\ed41";
+}
+
+.icofont-prestashop:before
+{
+  content: "\ed5e";
 }
 
 .icofont-slack:before
@@ -6357,9 +6503,9 @@ url("./fonts/icofont.woff") format("woff");
   content: "\ed68";
 }
 
-.icofont-tumblr:before
+.icofont-tinder:before
 {
-  content: "\ed78";
+  content: "\ed76";
 }
 
 .icofont-badminton-birdie:before
@@ -6420,11 +6566,6 @@ url("./fonts/icofont.woff") format("woff");
 .icofont-canoe:before
 {
   content: "\ed98";
-}
-
-.icofont-cheer-leader:before
-{
-  content: "\ed99";
 }
 
 .icofont-climbing:before
@@ -6702,6 +6843,11 @@ url("./fonts/icofont.woff") format("woff");
   content: "\edd0";
 }
 
+.icofont-team-alt:before
+{
+  content: "\edd1";
+}
+
 .icofont-team:before
 {
   content: "\edd2";
@@ -6760,11 +6906,6 @@ url("./fonts/icofont.woff") format("woff");
 .icofont-whistle:before
 {
   content: "\eddd";
-}
-
-.icofont-win-trophy:before
-{
-  content: "\edde";
 }
 
 .icofont-align-center:before
@@ -7542,21 +7683,6 @@ url("./fonts/icofont.woff") format("woff");
   content: "\ee79";
 }
 
-.icofont-snowy-windy-night:before
-{
-  content: "\ee7a";
-}
-
-.icofont-snowy-windy-sunny:before
-{
-  content: "\ee7b";
-}
-
-.icofont-snowy-windy:before
-{
-  content: "\ee7c";
-}
-
 .icofont-snowy:before
 {
   content: "\ee7d";
@@ -7620,116 +7746,6 @@ url("./fonts/icofont.woff") format("woff");
 .icofont-wave:before
 {
   content: "\ee89";
-}
-
-.icofont-wind-scale-0:before
-{
-  content: "\ee8a";
-}
-
-.icofont-wind-scale-1:before
-{
-  content: "\ee8b";
-}
-
-.icofont-wind-scale-10:before
-{
-  content: "\ee8c";
-}
-
-.icofont-wind-scale-11:before
-{
-  content: "\ee8d";
-}
-
-.icofont-wind-scale-12:before
-{
-  content: "\ee8e";
-}
-
-.icofont-wind-scale-2:before
-{
-  content: "\ee8f";
-}
-
-.icofont-wind-scale-3:before
-{
-  content: "\ee90";
-}
-
-.icofont-wind-scale-4:before
-{
-  content: "\ee91";
-}
-
-.icofont-wind-scale-5:before
-{
-  content: "\ee92";
-}
-
-.icofont-wind-scale-6:before
-{
-  content: "\ee93";
-}
-
-.icofont-wind-scale-7:before
-{
-  content: "\ee94";
-}
-
-.icofont-wind-scale-8:before
-{
-  content: "\ee95";
-}
-
-.icofont-wind-scale-9:before
-{
-  content: "\ee96";
-}
-
-.icofont-wind-waves:before
-{
-  content: "\ee97";
-}
-
-.icofont-wind:before
-{
-  content: "\ee98";
-}
-
-.icofont-windy-hail:before
-{
-  content: "\ee99";
-}
-
-.icofont-windy-night:before
-{
-  content: "\ee9a";
-}
-
-.icofont-windy-raining:before
-{
-  content: "\ee9b";
-}
-
-.icofont-windy-sunny:before
-{
-  content: "\ee9c";
-}
-
-.icofont-windy-thunder-raining:before
-{
-  content: "\ee9d";
-}
-
-.icofont-windy-thunder:before
-{
-  content: "\ee9e";
-}
-
-.icofont-windy:before
-{
-  content: "\ee9f";
 }
 
 .icofont-addons:before
